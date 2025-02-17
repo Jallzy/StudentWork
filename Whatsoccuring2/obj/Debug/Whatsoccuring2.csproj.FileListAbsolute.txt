@@ -1,0 +1,11 @@
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\bin\Debug\Whatsoccuring2.exe.config
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\bin\Debug\Whatsoccuring2.exe
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\bin\Debug\Whatsoccuring2.pdb
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\obj\Debug\Whatsoccuring2.csproj.AssemblyReference.cache
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\obj\Debug\Whatsoccuring2.Form1.resources
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\obj\Debug\Whatsoccuring2.Properties.Resources.resources
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\obj\Debug\Whatsoccuring2.TaskEntryForm.resources
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\obj\Debug\Whatsoccuring2.csproj.GenerateResource.cache
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\obj\Debug\Whatsoccuring2.csproj.CoreCompileInputs.cache
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\obj\Debug\Whatsoccuring2.exe
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\Whatsoccuring2\obj\Debug\Whatsoccuring2.pdb

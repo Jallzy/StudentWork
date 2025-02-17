@@ -1,0 +1,10 @@
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\imba\obj\Debug\imba.csproj.AssemblyReference.cache
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\imba\obj\Debug\imba.Form1.resources
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\imba\obj\Debug\imba.Properties.Resources.resources
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\imba\obj\Debug\imba.csproj.GenerateResource.cache
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\imba\obj\Debug\imba.csproj.CoreCompileInputs.cache
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\imba\bin\Debug\imba.exe.config
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\imba\bin\Debug\imba.exe
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\imba\bin\Debug\imba.pdb
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\imba\obj\Debug\imba.exe
+C:\Users\hucho\OneDrive - Dundee and Angus College\C#code\imba\obj\Debug\imba.pdb
